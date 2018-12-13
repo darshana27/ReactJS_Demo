@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|PT+Sans|Raleway');
+
+.main {
+    background-color: #FFFEFE;
+}
+.containerMain {
+    padding: 20px;
+}
+.containerInner {
+    padding: 10px;
+}
+.heading {
+    margin-left: 5px;
+    margin-top: 10vh;
+    font-size: 22px;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+.descContainer {
+    padding-top: 10px;
+}
+.imgContainer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}   
+.items {
+    margin-top: 2vh;
+}
+.prodImg {
+    height: 100px;
+    width: 100px;
+    padding-right: 13px;
+}
+h4 {
+    font-size: 18px;
+    color: #3D9614;
+    font-family: 'Montserrat';
+    font-weight: 600;
+}
+.desc {
+    font-family: 'Montserrat';
+    color: #000;
+    font-size: 12px;
+}
+.cost {
+    font-family: 'Montserrat';
+    font-size: 14px;
+    color: #242424;
+    font-weight: 600;
+}
+.details {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.viewDetails {
+    color: #3D9614;
+}
+
+.viewDetails.hover, .viewDetails:active {
+    color: #476926;
+}

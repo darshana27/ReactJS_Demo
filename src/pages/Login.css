@@ -1,0 +1,33 @@
+
+.container-fluid {
+    height: 60vh;
+    width: 100%;
+    
+}
+.loginBox {
+    height: 60px;
+    width: 300px;
+}
+#TxtUsername, #TxtPassword {
+    height: 25px;
+    width: 400px;
+}
+.btn {
+    background-color: #333;
+    width: 240px;
+    color: #ffffff
+}
+
+.loginInner {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 30px;
+    margin-top: 40%;   
+    align-items: center;
+    justify-content: center;
+}
+
+.loginText {
+    color: #333;
+    text-decoration: underline;
+}

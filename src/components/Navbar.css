@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #2E332B;
+}
+.navbar-brand {
+    color: #80DA26;
+}
+a {
+    color: #fff;
+    font-weight: 600;
+}
+a:hover, a:active {
+    color: #80DA26
+}
